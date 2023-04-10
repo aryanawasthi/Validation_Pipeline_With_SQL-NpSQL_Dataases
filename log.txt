@@ -1,0 +1,246 @@
+INFO:root:The Pipeline to ingest data is being started
+INFO:root:Checking the input parameters
+INFO:root:Checking at these location if files are present or not!
+INFO:root:All files have valid location and they exists.
+INFO:root:Loading the json file and extracting the required fields
+INFO:root:Loading the catgory names along with Ids
+INFO:root:Loading the Csv files from /home/aryan/Music/YouTube_Analysis_Data/DEvideos.csv
+INFO:root:Mapping the category names with the category ids
+INFO:root:Extracting the date from publish time and adding it to the same columns
+INFO:root:Conveting the datetype from string to date
+INFO:root:Converting the datetime for trending date
+INFO:root:Calculating the average days differnece between the trending date and publish date
+INFO:root:Let us calculate the average earning for the vedios depending on the vedios
+INFO:root:Since the file directorys is already present so no need to create the directory locally
+INFO:root:Saving the Income file at/home/aryan/data_pipeline/DE/Validated/Succesful//data_cat_income
+INFO:root:Saving the final CSV File in the location /home/aryan/data_pipeline/DE/Validated/Succesful/final_validated.csv
+INFO:root:The Pipeline to ingest data is being started
+INFO:root:Checking the input parameters
+INFO:root:Checking at these location if files are present or not!
+INFO:root:All files have valid location and they exists.
+INFO:root:Loading the json file and extracting the required fields
+INFO:root:Loading the catgory names along with Ids
+INFO:root:Loading the Csv files from /home/aryan/Music/YouTube_Analysis_Data/DEvideos.csv
+INFO:root:Mapping the category names with the category ids
+INFO:root:Extracting the date from publish time and adding it to the same columns
+INFO:root:Conveting the datetype from string to date
+INFO:root:Converting the datetime for trending date
+INFO:root:Calculating the average days differnece between the trending date and publish date
+INFO:root:Let us calculate the average earning for the vedios depending on the vedios
+INFO:root:Since the file directorys is already present so no need to create the directory locally
+INFO:root:Saving the Income file at/home/aryan/data_pipeline/DE/Validated/Succesful//data_cat_income
+INFO:root:Saving the final CSV File in the location /home/aryan/data_pipeline/DE/Validated/Succesful/final_validated.csv
+INFO:root:The Pipeline to ingest data is being started
+INFO:root:Checking the input parameters
+INFO:root:Checking at these location if files are present or not!
+INFO:root:All files have valid location and they exists.
+INFO:root:Loading the json file and extracting the required fields
+INFO:root:Loading the catgory names along with Ids
+INFO:root:Loading the Csv files from /home/aryan/Music/YouTube_Analysis_Data/DEvideos.csv
+INFO:root:Mapping the category names with the category ids
+INFO:root:Extracting the date from publish time and adding it to the same columns
+INFO:root:Conveting the datetype from string to date
+INFO:root:Converting the datetime for trending date
+INFO:root:Calculating the average days differnece between the trending date and publish date
+INFO:root:Let us calculate the average earning for the vedios depending on the vedios
+INFO:root:Since the file directorys is already present so no need to create the directory locally
+INFO:root:Saving the Income file at/home/aryan/data_pipeline/DE/Validated/Succesful//data_cat_income
+INFO:root:Saving the final CSV File in the location /home/aryan/data_pipeline/DE/Validated/Succesful/final_validated.csv
+INFO:root:The Pipeline to ingest data is being started
+INFO:root:Checking the input parameters
+INFO:root:Checking at these location if files are present or not!
+INFO:root:All files have valid location and they exists.
+INFO:root:Loading the json file and extracting the required fields
+INFO:root:Loading the catgory names along with Ids
+INFO:root:Loading the Csv files from /home/aryan/Music/YouTube_Analysis_Data/DEvideos.csv
+INFO:root:Mapping the category names with the category ids
+INFO:root:Extracting the date from publish time and adding it to the same columns
+INFO:root:Conveting the datetype from string to date
+INFO:root:Converting the datetime for trending date
+INFO:root:Calculating the average days differnece between the trending date and publish date
+INFO:root:Let us calculate the average earning for the vedios depending on the vedios
+INFO:root:Since the file directorys is already present so no need to create the directory locally
+INFO:root:Saving the Income file at/home/aryan/data_pipeline/DE/Validated/Succesful//data_cat_income
+INFO:root:Saving the final CSV File in the location /home/aryan/data_pipeline/DE/Validated/Succesful/final_validated.csv
+INFO:root:The Pipeline to ingest data is being started
+INFO:root:Checking the input parameters
+INFO:root:Checking at these location if files are present or not!
+INFO:root:All files have valid location and they exists.
+INFO:root:Loading the json file and extracting the required fields
+INFO:root:Loading the catgory names along with Ids
+INFO:root:Loading the Csv files from /home/aryan/Music/YouTube_Analysis_Data/DEvideos.csv
+INFO:root:Mapping the category names with the category ids
+INFO:root:Extracting the date from publish time and adding it to the same columns
+INFO:root:Conveting the datetype from string to date
+INFO:root:Converting the datetime for trending date
+INFO:root:Calculating the average days differnece between the trending date and publish date
+INFO:root:Let us calculate the average earning for the vedios depending on the vedios
+INFO:root:Since the file directorys is already present so no need to create the directory locally
+INFO:root:Saving the Income file at/home/aryan/data_pipeline/DE/Validated/Succesful//data_cat_income
+INFO:root:Saving the final CSV File in the location /home/aryan/data_pipeline/DE/Validated/Succesful/final_validated.csv
+INFO:root:The Pipeline to ingest data is being started
+INFO:root:Checking the input parameters
+INFO:root:Checking at these location if files are present or not!
+INFO:root:All files have valid location and they exists.
+INFO:root:Loading the json file and extracting the required fields
+INFO:root:Loading the catgory names along with Ids
+INFO:root:Loading the Csv files from /home/aryan/Music/YouTube_Analysis_Data/DEvideos.csv
+INFO:root:Mapping the category names with the category ids
+INFO:root:Extracting the date from publish time and adding it to the same columns
+INFO:root:Conveting the datetype from string to date
+INFO:root:Converting the datetime for trending date
+INFO:root:Calculating the average days differnece between the trending date and publish date
+INFO:root:Let us calculate the average earning for the vedios depending on the vedios
+INFO:root:Since the file directorys is already present so no need to create the directory locally
+INFO:root:Saving the Income file at/home/aryan/data_pipeline/DE/Validated/Succesful//data_cat_income
+INFO:root:Saving the final CSV File in the location /home/aryan/data_pipeline/DE/Validated/Succesful/final_validated.csv
+INFO:root:The Pipeline to ingest data is being started
+INFO:root:The Pipeline to ingest data is being started
+INFO:root:The Pipeline to ingest data is being started
+INFO:root:Checking the input parameters
+INFO:root:Checking at these location if files are present or not!
+INFO:root:All files have valid location and they exists.
+INFO:root:Loading the json file and extracting the required fields
+INFO:root:Loading the catgory names along with Ids
+INFO:root:Loading the Csv files from /home/aryan/Music/YouTube_Analysis_Data/JPvideos.csv
+INFO:root:The Pipeline to ingest data is being started
+INFO:root:Checking the input parameters
+INFO:root:Checking at these location if files are present or not!
+INFO:root:All files have valid location and they exists.
+INFO:root:Loading the json file and extracting the required fields
+INFO:root:Loading the catgory names along with Ids
+INFO:root:Loading the Csv files from /home/aryan/Music/YouTube_Analysis_Data/JPvideos.csv
+INFO:root:Mapping the category names with the category ids
+INFO:root:Extracting the date from publish time and adding it to the same columns
+INFO:root:Conveting the datetype from string to date
+INFO:root:Converting the datetime for trending date
+INFO:root:Calculating the average days differnece between the trending date and publish date
+INFO:root:Let us calculate the average earning for the vedios depending on the vedios
+INFO:root:Saving the Income file at/home/aryan/data_pipeline/JP/Validated/Succesful//data_cat_income
+INFO:root:Saving the final CSV File in the location /home/aryan/data_pipeline/JP/Validated/Succesful/final_validated.csv
+INFO:root:Checking the input parameters
+INFO:root:Checking at these location if files are present or not!
+INFO:root:All files have valid location and they exists.
+INFO:root:Loading the json file and extracting the required fields
+INFO:root:Loading the catgory names along with Ids
+INFO:root:Loading the Csv files from /home/aryan/Music/YouTube_Analysis_Data/MXvideos.csv
+INFO:root:Mapping the category names with the category ids
+INFO:root:Extracting the date from publish time and adding it to the same columns
+INFO:root:Conveting the datetype from string to date
+INFO:root:Converting the datetime for trending date
+INFO:root:Calculating the average days differnece between the trending date and publish date
+INFO:root:Let us calculate the average earning for the vedios depending on the vedios
+INFO:root:Saving the Income file at/home/aryan/data_pipeline/MX/Validated/Succesful//data_cat_income
+INFO:root:Saving the final CSV File in the location /home/aryan/data_pipeline/MX/Validated/Succesful/final_validated.csv
+INFO:root:Checking the input parameters
+INFO:root:Checking at these location if files are present or not!
+INFO:root:All files have valid location and they exists.
+INFO:root:Loading the json file and extracting the required fields
+INFO:root:Loading the catgory names along with Ids
+INFO:root:Loading the Csv files from /home/aryan/Music/YouTube_Analysis_Data/GBvideos.csv
+INFO:root:Mapping the category names with the category ids
+INFO:root:Extracting the date from publish time and adding it to the same columns
+INFO:root:Conveting the datetype from string to date
+INFO:root:Converting the datetime for trending date
+INFO:root:Calculating the average days differnece between the trending date and publish date
+INFO:root:Let us calculate the average earning for the vedios depending on the vedios
+INFO:root:Saving the Income file at/home/aryan/data_pipeline/GB/Validated/Succesful//data_cat_income
+INFO:root:Saving the final CSV File in the location /home/aryan/data_pipeline/GB/Validated/Succesful/final_validated.csv
+INFO:root:Checking the input parameters
+INFO:root:Checking at these location if files are present or not!
+INFO:root:All files have valid location and they exists.
+INFO:root:Loading the json file and extracting the required fields
+INFO:root:Loading the catgory names along with Ids
+INFO:root:Loading the Csv files from /home/aryan/Music/YouTube_Analysis_Data/USvideos.csv
+INFO:root:Mapping the category names with the category ids
+INFO:root:Extracting the date from publish time and adding it to the same columns
+INFO:root:Conveting the datetype from string to date
+INFO:root:Converting the datetime for trending date
+INFO:root:Calculating the average days differnece between the trending date and publish date
+INFO:root:Let us calculate the average earning for the vedios depending on the vedios
+INFO:root:Saving the Income file at/home/aryan/data_pipeline/US/Validated/Succesful//data_cat_income
+INFO:root:Saving the final CSV File in the location /home/aryan/data_pipeline/US/Validated/Succesful/final_validated.csv
+INFO:root:Checking the input parameters
+INFO:root:Checking at these location if files are present or not!
+INFO:root:All files have valid location and they exists.
+INFO:root:Loading the json file and extracting the required fields
+INFO:root:Loading the catgory names along with Ids
+INFO:root:Loading the Csv files from /home/aryan/Music/YouTube_Analysis_Data/INvideos.csv
+INFO:root:Mapping the category names with the category ids
+INFO:root:Extracting the date from publish time and adding it to the same columns
+INFO:root:Conveting the datetype from string to date
+INFO:root:Converting the datetime for trending date
+INFO:root:Calculating the average days differnece between the trending date and publish date
+INFO:root:Let us calculate the average earning for the vedios depending on the vedios
+INFO:root:Saving the Income file at/home/aryan/data_pipeline/IN/Validated/Succesful//data_cat_income
+INFO:root:Saving the final CSV File in the location /home/aryan/data_pipeline/IN/Validated/Succesful/final_validated.csv
+INFO:root:Checking the input parameters
+INFO:root:Checking at these location if files are present or not!
+INFO:root:All files have valid location and they exists.
+INFO:root:Loading the json file and extracting the required fields
+INFO:root:Loading the catgory names along with Ids
+INFO:root:Loading the Csv files from /home/aryan/Music/YouTube_Analysis_Data/KRvideos.csv
+INFO:root:Mapping the category names with the category ids
+INFO:root:Extracting the date from publish time and adding it to the same columns
+INFO:root:Conveting the datetype from string to date
+INFO:root:Converting the datetime for trending date
+INFO:root:Calculating the average days differnece between the trending date and publish date
+INFO:root:Let us calculate the average earning for the vedios depending on the vedios
+INFO:root:Saving the Income file at/home/aryan/data_pipeline/KR/Validated/Succesful//data_cat_income
+INFO:root:Saving the final CSV File in the location /home/aryan/data_pipeline/KR/Validated/Succesful/final_validated.csv
+INFO:root:Checking the input parameters
+INFO:root:Checking at these location if files are present or not!
+INFO:root:All files have valid location and they exists.
+INFO:root:Loading the json file and extracting the required fields
+INFO:root:Loading the catgory names along with Ids
+INFO:root:Loading the Csv files from /home/aryan/Music/YouTube_Analysis_Data/RUvideos.csv
+INFO:root:Mapping the category names with the category ids
+INFO:root:Extracting the date from publish time and adding it to the same columns
+INFO:root:Conveting the datetype from string to date
+INFO:root:Converting the datetime for trending date
+INFO:root:Calculating the average days differnece between the trending date and publish date
+INFO:root:Let us calculate the average earning for the vedios depending on the vedios
+INFO:root:Saving the Income file at/home/aryan/data_pipeline/RU/Validated/Succesful//data_cat_income
+INFO:root:Saving the final CSV File in the location /home/aryan/data_pipeline/RU/Validated/Succesful/final_validated.csv
+INFO:root:Checking the input parameters
+INFO:root:Checking at these location if files are present or not!
+INFO:root:All files have valid location and they exists.
+INFO:root:Loading the json file and extracting the required fields
+INFO:root:Loading the catgory names along with Ids
+INFO:root:Loading the Csv files from /home/aryan/Music/YouTube_Analysis_Data/CAvideos.csv
+INFO:root:Mapping the category names with the category ids
+INFO:root:Extracting the date from publish time and adding it to the same columns
+INFO:root:Conveting the datetype from string to date
+INFO:root:Converting the datetime for trending date
+INFO:root:Calculating the average days differnece between the trending date and publish date
+INFO:root:Let us calculate the average earning for the vedios depending on the vedios
+INFO:root:Saving the Income file at/home/aryan/data_pipeline/CA/Validated/Succesful//data_cat_income
+INFO:root:Saving the final CSV File in the location /home/aryan/data_pipeline/CA/Validated/Succesful/final_validated.csv
+INFO:root:Checking the input parameters
+INFO:root:Checking at these location if files are present or not!
+INFO:root:All files have valid location and they exists.
+INFO:root:Loading the json file and extracting the required fields
+INFO:root:Loading the catgory names along with Ids
+INFO:root:Loading the Csv files from /home/aryan/Music/YouTube_Analysis_Data/FRvideos.csv
+INFO:root:Mapping the category names with the category ids
+INFO:root:Extracting the date from publish time and adding it to the same columns
+INFO:root:Conveting the datetype from string to date
+INFO:root:Converting the datetime for trending date
+INFO:root:Calculating the average days differnece between the trending date and publish date
+INFO:root:Let us calculate the average earning for the vedios depending on the vedios
+INFO:root:Saving the Income file at/home/aryan/data_pipeline/FR/Validated/Succesful//data_cat_income
+INFO:root:Saving the final CSV File in the location /home/aryan/data_pipeline/FR/Validated/Succesful/final_validated.csv
+INFO:root:Checking the input parameters
+INFO:root:Checking at these location if files are present or not!
+INFO:root:All files have valid location and they exists.
+INFO:root:Loading the json file and extracting the required fields
+INFO:root:Loading the catgory names along with Ids
+INFO:root:Loading the Csv files from /home/aryan/Music/YouTube_Analysis_Data/DEvideos.csv
+INFO:root:Mapping the category names with the category ids
+INFO:root:Extracting the date from publish time and adding it to the same columns
+INFO:root:Conveting the datetype from string to date
+INFO:root:Converting the datetime for trending date
+INFO:root:Calculating the average days differnece between the trending date and publish date
+INFO:root:Let us calculate the average earning for the vedios depending on the vedios
+INFO:root:Saving the Income file at/home/aryan/data_pipeline/DE/Validated/Succesful//data_cat_income
+INFO:root:Saving the final CSV File in the location /home/aryan/data_pipeline/DE/Validated/Succesful/final_validated.csv
