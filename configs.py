@@ -11,10 +11,11 @@ import requests
 from bs4 import BeautifulSoup
 import psycopg2
 
-validation_para={
-    'banner':"DE",
-    "json_location":"/home/aryan/Music/YouTube_Analysis_Data/DE_category_id.json",
-    "csv_location":"/home/aryan/Music/YouTube_Analysis_Data/DEvideos.csv",
-    "table_name":"dedata",
-    "validated_file_location":"/home/aryan/data_pipeline/"
-}
+formatter = logging.Formatter('%(message)s')
+logging.basicConfig(level=logging.INFO,Formatter=formatter,filename='log.txt')
+
+
+
+
+
+#

@@ -171,6 +171,50 @@ def check_data_inserted(table_name,conn_string):
     cursor.execute(sql1)
     res=cursor.fetchall()
     print(res.head(10))
+
+
+# Here our idea is to extract the filenames which contains a json file and a csv file.
+
+# Designing a function to extract a json file.
+
+def generate_configs(input_dir):
+    import os
+    import regex
+    banner_names=[]
+    file_info_csv={}
+    file_info_json={}
+    final_dict={}
+    filenames=os.listdir(input_dir)
+    for i in filenames:
+
+        bann_name=i[0:2]
+        reg_pattern_csv=f'{bann_name}.*.csv$'
+        reg_pattern_json=f'{bann_name}.*.json$'
+        if bool(re.findall(reg_pattern_csv,i)):
+                file_info_csv[f"{bann_name}"]=i
+        if bool(re.findall(reg_pattern_json,i)):
+                file_info_json[f"{bann_name}"]=i
+
+        if  bann_name not in banner_names:
+            banner_names.append(bann_name)
+            
+    return file_info_csv,file_info_json
+
+
+def generate_master_dict(csv_files_dict,csv_files_json):
+    master_dict={}
+    for k,v in csv_files_dict.items():
+        new_file=[]
+        new_file.append(v)
+        new_file.append(csv_files_json[k])
+        if k not in master_dict.keys():
+            master_dict[k]=new_file
+            
+    return master_dict
+
+
+
+    
     
     
 
